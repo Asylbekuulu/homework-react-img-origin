@@ -1,0 +1,27 @@
+.btn-upload{
+    display: none;
+    
+}
+.btn-text{
+    text-align: center;
+    padding-top: 25px;
+    cursor: pointer;
+    display: block;
+    font-family: 'Lato', sans-serif;
+    color: #FFFFFF;
+    width: 444px;
+    height: 50px;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    background: #80BF76;
+    border-radius: 10px;
+    margin-left: 38%;
+    margin-top: 207px;
+}
+.upload-img{
+    width: 444px;
+    height: 444px;
+    border-radius: 10px;
+    margin-top: 29px;
+}

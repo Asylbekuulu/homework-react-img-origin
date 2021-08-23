@@ -1,4 +1,3 @@
-export default Icons;
 
 const Icons = () => {
     return(
@@ -23,3 +22,4 @@ const Icons = () => {
         </div>
     )
 }
+export default Icons;
